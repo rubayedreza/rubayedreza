@@ -1,6 +1,6 @@
 <!-- 🖼️ Banner GIF -->
 <div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW5mMmMweXF4cGp6aXMzbHM1Y3QxZDEyNjNuNjhydTE3bWl0eXpveiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6u0tTfr48m71NLBXwg/giphy.gif" width="100%" alt="Welcome Banner" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXFhdjFod2s1dXE1eWhsbm82cXBlZTE0Z3F3OGc2OHBibGhzbWhhZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lcLTFePgX7DRLgyCt9/giphy.gif" width="100%" alt="Welcome Banner" />
 </div>
 
 <div align="center">
