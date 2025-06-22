@@ -60,4 +60,5 @@ Here are a few things I’ve worked on recently:
 
 ### 🐍 My GitHub Contribution Snake
 
-<img src="https://raw.githubusercontent.com/rubayedreza/rubayedreza/output/snake.svg" alt="Snake animation" />
+<!-- GitHub Snake Animation -->
+<img src="https://raw.githubusercontent.com/rubayedreza/rubayedreza/output/github-contribution-grid-snake.svg" alt="Snake animation" />
