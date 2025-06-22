@@ -1,3 +1,8 @@
+<!-- 🖼️ Banner GIF -->
+<div align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW5mMmMweXF4cGp6aXMzbHM1Y3QxZDEyNjNuNjhydTE3bWl0eXpveiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6u0tTfr48m71NLBXwg/giphy.gif" width="100%" alt="Welcome Banner" />
+</div>
+
 <h2 align="left">Hi 👋! My name is Rubayed Reza and I'm a Web Developer & CSE Student from Daffodil International University, Bangladesh</h2>
 
 ###
@@ -9,7 +14,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" alt="Funny developer gif" />
+<img align="right" height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding gif" />
 
 ###
 
@@ -29,19 +34,30 @@
 
 ###
 
-<div align="left">
-  <a href="mailto:rubayedreza@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-  </a>
-  <a href="https://www.linkedin.com/in/rubayedreza/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-  </a>
-</div>
+### 🛠 Featured Projects
+
+Here are a few things I’ve worked on recently:
+
+- 🔗 [**Personal Portfolio Website**](https://github.com/rubayedreza/portfolio) — My responsive and animated developer portfolio built with React.
+- 👗 [**Women's Clothing 3D Website**](https://github.com/rubayedreza/women-clothing-3d) — A 3D interactive shopping site using Three.js.
+- 📊 [**Mental Well-being Classifier (ML Project)**](https://github.com/rubayedreza/mental-health-classifier) — ML project analyzing daily routines and mental health patterns.
+- 🔐 [**Login System with Firebase Auth**](https://github.com/rubayedreza/firebase-auth-app) — Clean auth system using React + Firebase.
+
+> ⭐ Want to see more? Explore [all my repositories »](https://github.com/rubayedreza?tab=repositories)
 
 ###
 
-<br clear="both">
+### 📫 Contact Me
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<a href="mailto:rubayedreza@gmail.com" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+</a>
+<a href="https://www.linkedin.com/in/rubayedreza/" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+</a>
 
 ###
+
+### 🐍 My GitHub Contribution Snake
+
+<img src="https://raw.githubusercontent.com/rubayedreza/rubayedreza/output/snake.svg" alt="Snake animation" />
