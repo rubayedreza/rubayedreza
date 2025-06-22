@@ -51,18 +51,6 @@
   </tr>
 </table>
 
-<br>
-
-### 🛠 Featured Projects
-
-Here are a few things I’ve worked on recently:
-
-- 🔗 [**Personal Portfolio Website**](https://github.com/rubayedreza/portfolio) — My responsive and animated developer portfolio built with React.
-- 👗 [**Women's Clothing 3D Website**](https://github.com/rubayedreza/women-clothing-3d) — A 3D interactive shopping site using Three.js.
-- 📊 [**Mental Well-being Classifier (ML Project)**](https://github.com/rubayedreza/mental-health-classifier) — ML project analyzing daily routines and mental health patterns.
-- 🔐 [**Login System with Firebase Auth**](https://github.com/rubayedreza/firebase-auth-app) — Clean auth system using React + Firebase.
-
-> ⭐ Want to see more? Explore [all my repositories »](https://github.com/rubayedreza?tab=repositories)
 
 <br>
 
