@@ -3,7 +3,9 @@
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW5mMmMweXF4cGp6aXMzbHM1Y3QxZDEyNjNuNjhydTE3bWl0eXpveiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6u0tTfr48m71NLBXwg/giphy.gif" width="100%" alt="Welcome Banner" />
 </div>
 
-<h2 align="left">Hi 👋! My name is Rubayed Reza and I'm a Web Developer & CSE Student from Daffodil International University, Bangladesh</h2>
+<div align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1O5lNHOImYoxMmVPJRcUveUcQn7eRnocj" alt="Rubayed Reza Banner" />
+</div>
 
 ###
 
