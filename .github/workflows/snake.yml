@@ -15,12 +15,18 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v2
 
+      # This new step creates the 'dist' directory
+      - name: Create dist directory
+        run: mkdir -p dist
+
+      # This step now has a place to put the file
       - name: Generate Snake SVG
         uses: Platane/snk@v3
         with:
           github_user_name: rubayedreza
           svg_out_path: dist/github-contribution-grid-snake.svg
 
+      # This step will now find the 'dist' directory
       - name: Push generated file to the 'output' branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
