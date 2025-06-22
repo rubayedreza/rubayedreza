@@ -14,27 +14,44 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubayedreza&layout=compact&theme=dracula&hide_border=false" height="150" alt="Top languages" />
 </div>
 
-###
+<br><br>
 
-<img align="right" height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding gif" />
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="125" alt="JavaScript" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="125" alt="React" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="125" alt="HTML5" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="125" alt="CSS3" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="125" alt="Python" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="C Language" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="125" alt="C Language" />
 </div>
 
-###
+<br><br>
+
+<table>
+  <tr>
+    <td valign="top">
+      <h3>🛠 Featured Projects</h3>
+      <p>Here are a few things I’ve worked on recently:</p>
+      <ul>
+        <li>🔗 <a href="https://github.com/rubayedreza/portfolio"><b>Personal Portfolio Website</b></a> — My responsive and animated developer portfolio built with React.</li>
+        <li>👗 <a href="https://github.com/rubayedreza/women-clothing-3d"><b>Women's Clothing 3D Website</b></a> — A 3D interactive shopping site using Three.js.</li>
+        <li>📊 <a href="https://github.com/rubayedreza/mental-health-classifier"><b>Mental Well-being Classifier (ML Project)</b></a> — ML project analyzing daily routines and mental health patterns.</li>
+        <li>🔐 <a href="https://github.com/rubayedreza/firebase-auth-app"><b>Login System with Firebase Auth</b></a> — Clean auth system using React + Firebase.</li>
+      </ul>
+      <p>> ⭐ Want to see more? Explore <a href="https://github.com/rubayedreza?tab=repositories">all my repositories »</a></p>
+    </td>
+    <td width="40%" align="right">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding gif" />
+    </td>
+  </tr>
+</table>
+
+<br>
 
 ### 🛠 Featured Projects
 
@@ -47,7 +64,7 @@ Here are a few things I’ve worked on recently:
 
 > ⭐ Want to see more? Explore [all my repositories »](https://github.com/rubayedreza?tab=repositories)
 
-###
+<br>
 
 ### 📫 Contact Me
 
@@ -58,7 +75,7 @@ Here are a few things I’ve worked on recently:
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" />
 </a>
 
-###
+<br><br>
 
 <!-- GitHub Snake Animation -->
 <div align="center">
