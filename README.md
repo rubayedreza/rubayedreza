@@ -65,8 +65,16 @@
 
 <br><br>
 
-<!-- GitHub Snake Animation -->
+<!-- Snake Animation -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/rubayedreza/rubayedreza/output/github-contribution-grid-snake.svg?v=123" alt="Snake animation" />
+    
+  ![snake gif](https://github.com/rubayedreza/rubayedreza/blob/output/github-snake-dark.svg)
 </div>
 
+
+
+<!-- Visit Counter -->
+<div align="center">
+  
+  [![](https://visitcount.itsvg.in/api?id=rubayedreza&icon=10&color=6)](https://visitcount.itsvg.in)
+</div>
